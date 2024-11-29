@@ -1,0 +1,83 @@
+.main-nav{
+    height: 68px;
+    width: 100vw;
+    
+    margin: 0;
+    padding: 0;
+    display: flex;
+    
+    align-items: center;
+    border-bottom: 1px solid rgb(207, 207, 207);
+}
+.logo-class{
+    display: flex;
+    align-items: center;
+    margin: 15px;
+    padding: 5px;
+    
+}
+
+.logo-design{
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFFFFF;
+    backdrop-filter: 20px blur;
+    
+    border: 1px solid #D0D5DD ;
+    padding: 5px;
+}
+
+.inner-logo-circle{
+    height: 32px;
+    width: 32px;
+    background-color:#53389E ;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    padding: 0;
+    margin: 0;
+    
+ 
+}
+.logo-name{
+    margin-left: 10px;
+}
+a{
+    text-decoration: none;
+}
+#name-logo{
+    font-weight: 600;
+    font-size: 1.4rem;
+    color: black;
+}
+.nav-options-class{
+    margin-left: 10px;
+}
+ul{
+    display: flex;
+}
+ul li{
+    text-decoration: none;
+    display: flex;
+    margin-left: 25px;
+    font-weight: 300;
+    font-size: 1.2rem;
+    color: black;
+}
+
+.nav-user-class{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+}
+#user-img{
+    height: 35px;
+    width: 35px;
+}
+.nav-user-class{
+    margin-left:50%
+}

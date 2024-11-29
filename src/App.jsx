@@ -1,10 +1,12 @@
 import "./App.css";
 
 import React from "react";
+import Website from "./Website";
+
 function App() {
   return (
     <div>
-      <h1 color="black">surya</h1>
+    <Website/>
     </div>
   );
 }

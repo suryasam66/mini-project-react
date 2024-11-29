@@ -1,0 +1,15 @@
+.companysec-main-class{
+    height: 120px;
+    max-width: 100%;
+   
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+#companysec-main-photo{
+    margin: 0;
+    padding: 0;
+    height: 160px;
+    max-width: 100%;
+}
