@@ -1,0 +1,13 @@
+.main-trial{
+    height: 300px;
+    max-width: 100%;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    background-color: rgb(244, 244, 244);
+
+}
+h1{
+    color: black;
+}

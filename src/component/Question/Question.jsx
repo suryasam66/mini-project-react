@@ -7,6 +7,7 @@ const Question = () => {
     <div className='client-main-box'> 
     <div className="nav-user-class">
         <img src={photo} alt="user" id="user-img" />
+       
       </div>
        
                    <h1 id="q-h1">Still have questions? </h1>
