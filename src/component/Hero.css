@@ -80,6 +80,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
+    
 }
 #demo-button{
     display: flex;
@@ -90,10 +92,12 @@
     border: 1px solid rgb(203, 203, 203);
     border-radius: 5px;
     background-color: white;
+    cursor: pointer;
 }
 #demo-icon{
     font-weight: 400;
     font-size: 1.5rem;
+    cursor: pointer;
 }
 #signup-button{
     display: flex;
@@ -106,6 +110,7 @@
     border: none;
     background-color: #6941C6;
     color: white;
+    cursor: pointer;
 }
 .photo-content-dashboard{
     margin-top: 12px;
