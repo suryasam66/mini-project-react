@@ -1,0 +1,24 @@
+.InfoBox {
+    text-align: center;
+}
+.cardContainer{
+    display: flex;
+    justify-content: center;
+   
+  transform: scale(0.9);
+  opacity: 1;
+  transition: transform 0.5s ease-out, opacity 0.5s ease-out;
+}
+
+
+.cardContainer:hover {
+    transform: scale(1);
+    opacity: 1;
+  }
+
+
+.setIconColor  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
