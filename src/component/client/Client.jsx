@@ -3,7 +3,7 @@ import "../client/client.css"
 import photo from "../../assets/user.png"
 const Client = () => {
   return (
-    <div className='client-main-box'> 
+    <div className='client-main-box-q'> 
         <span id="client-span">Sisyphus</span>
        <h1 id="client-h1">We've been using ZISK to kick start every new <br />
        project and can't imagine working without it.

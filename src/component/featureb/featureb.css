@@ -1,0 +1,42 @@
+.Bfeature-main-box{
+    height: 800px;
+    max-width: 100%;
+   
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+#feature-b{
+    margin-top: 30px;
+    height: 30px;
+    width: 65px;
+    border: none;
+    background-color: rgb(213, 134, 255);
+    border-radius: 10px;
+    color: white;
+    margin-left: 50%;
+}
+#b-f{
+    color: black;
+    margin-left: 22%;
+}
+#c-f{
+    color: black;
+    margin-left: 28%;
+}
+#d-f{
+    color: black;
+    margin-left: 35%;
+}
+.image-bfeature{
+    height: 500px;
+    width: 700px;
+    margin-left: 16%;
+}
+.content-fet{
+    max-width: 100%;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}

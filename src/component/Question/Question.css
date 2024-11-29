@@ -1,0 +1,59 @@
+.client-main-box-q{
+  
+    height: 300px;
+    max-width: 100%;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    background-color: rgb(244, 244, 244);
+}
+#client-h1{
+    margin-top: -40px;
+    color: black;
+}
+#client-span{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 200;
+    
+}
+#client-span-a{
+    
+    color: black;
+    font-size: 0.9rem;
+    font-weight: 100;
+    display: inline;
+    display:flex
+}
+#q-h1{
+    margin-top: -80px;
+    margin-left: 23%;
+    color: black;
+}
+#help{
+    margin-top: -150px;
+}
+#aso{
+    margin-top: -100px;
+    margin-left: 63%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 100px;
+    margin-left: 12px;
+    border-radius: 5px;
+    border: none;
+    background-color: #6941C6;
+    color: white;
+    cursor: pointer;
+   
+}
+.button-div-b{
+    margin-left: 40%;
+}
