@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer style={{ backgroundColor: "#f9f9f9", padding: "2rem 1rem" }}>
       <div style={{ display: "flex", justifyContent: "space-between", flexWrap: "wrap", maxWidth: "1200px", margin: "0 auto" }}>
-        {/* Product Section */}
+    
         <div>
           <h4>Product</h4>
           <ul>
@@ -17,7 +17,7 @@ const Footer = () => {
           </ul>
         </div>
 
-        {/* Company Section */}
+    
         <div>
           <h4>Company</h4>
           <ul>
@@ -30,7 +30,7 @@ const Footer = () => {
           </ul>
         </div>
 
-        {/* Resources Section */}
+     
         <div>
           <h4>Resources</h4>
           <ul>
@@ -43,7 +43,7 @@ const Footer = () => {
           </ul>
         </div>
 
-        {/* Use Cases Section */}
+       
         <div>
           <h4>Use cases</h4>
           <ul>
@@ -55,7 +55,7 @@ const Footer = () => {
           </ul>
         </div>
 
-        {/* Social Section */}
+       
         <div>
           <h4>Social</h4>
           <ul>
@@ -68,7 +68,7 @@ const Footer = () => {
           </ul>
         </div>
 
-        {/* Legal Section */}
+       
         <div>
           <h4>Legal</h4>
           <ul>
