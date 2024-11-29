@@ -10,6 +10,7 @@ import Question from './component/Question/Question';
 import Trial from './component/Trial/Trial';
 import Footer from './component/Footer/Footer';
 import Faq from './component/Faq/Faq';
+import Blog from './component/Blog/Blog';
 const Website = () => {
   return (
     <div className='main-website-page'>
@@ -22,6 +23,7 @@ const Website = () => {
       <Question/>
      
       <Faq/>
+      <Blog/>
       <Trial/>
       <Footer/>
     </div>
