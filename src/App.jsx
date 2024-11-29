@@ -1,10 +1,10 @@
 import "./App.css";
-import WeatherApp from "./WeatherApp.jsx";
+
 import React from "react";
 function App() {
   return (
     <div>
-      <h1>surya</h1>
+      <h1 color="black">surya</h1>
     </div>
   );
 }
